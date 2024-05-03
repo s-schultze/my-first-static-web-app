@@ -8,6 +8,7 @@ html, body {
   padding: 0;
   background-color: #fff;
   font-size: medium;
+  color:blueviolet
 }
 
 main {
@@ -19,4 +20,5 @@ main {
 main > h1 {
   text-align: center;
   font-size: 3.5 em;
+  color:blue
 }
