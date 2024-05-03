@@ -12,7 +12,16 @@
 <body>
   <main>
     <p>Hallo aus dem Azure-Land über GitHub!</p>
+    <input type="text" id="textbox">
+    <button onclick="displayText()">Text anzeigen</button>
   </main>
+
+  <script>
+    function displayText() {
+      var textbox = document.getElementById("textbox");
+      textbox.value = "Hallo";
+    }
+  </script>
 </body>
 
 </html>
