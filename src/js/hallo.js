@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Array mit den Texten, die angezeigt werden sollen
-    var texts = ["Hallo", "Anja", "Steffen", "Hallo"];
+    var texts = ["Hallo", "Anja", "Steffen"];
     // Zähler, um den aktuellen Index im Array zu verfolgen
     var counter = 0;
   
